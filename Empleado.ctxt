@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=Empleado
+comment0.text=\n\ @author\ Gabriel\ S\u00E1nchez\ Arrisi\ \n\ @version\ 1.0.0\n
+comment1.params=
+comment1.target=Empleado()
+comment2.params=nombre\ apellido\ sueldo\ edad
+comment2.target=Empleado(java.lang.String,\ java.lang.String,\ double,\ int)
+comment3.params=
+comment3.target=java.lang.String\ devuelveNombre()
+comment3.text=\n\ M\u00E9todo\ para\ obtener\ el\ nombre\ completo\ del\ empleado\n\ @return\ \ \ \ \ \ Devuelve\ el\ nombre\ completo\ del\ colaborador\n
+comment4.params=
+comment4.target=double\ devuelveSueldoLiquido()
+comment4.text=\n\ M\u00E9todo\ para\ obtener\ el\ sueldo\ liquido\ del\ empleado\n\ @return\ \ \ \ \ \ Devuelve\ el\ sueldo\ liquido\ del\ empleado\n
+numComments=5

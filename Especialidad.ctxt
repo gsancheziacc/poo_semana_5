@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=Especialidad
+comment0.text=\n\ @author\ Gabriel\ S\u00E1nchez\ Arrisi\ \n\ @version\ 1.0.0\n
+comment1.params=
+comment1.target=Especialidad()
+comment2.params=
+comment2.target=int\ generarId()
+comment3.params=
+comment3.target=int\ getId()
+comment4.params=
+comment4.target=java.lang.String\ getNombre()
+comment5.params=nombre
+comment5.target=void\ setNombre(java.lang.String)
+numComments=6

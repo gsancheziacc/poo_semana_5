@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Desarrollador
+comment0.text=\n\ @author\ Gabriel\ S\u00E1nchez\ Arrisi\ \n\ @version\ 1.0.0\n
+comment1.params=nombre\ apellido\ sueldo\ edad\ cargo
+comment1.target=Desarrollador(java.lang.String,\ java.lang.String,\ double,\ int,\ java.lang.String)
+comment2.params=
+comment2.target=Especialidad\ getEspecialidad()
+comment3.params=nombre
+comment3.target=void\ setEspecialidad(java.lang.String)
+numComments=4
